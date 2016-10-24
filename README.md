@@ -1,5 +1,5 @@
 # bio331-utils
-Utility functions for Reed College Bio331: Computational Systems Biology.
+Utility functions for Reed College Bio331: Computational Systems Biology. This is Amy Rose Lazarte's version of the utility functions.
 
 ## QuickStart
 
